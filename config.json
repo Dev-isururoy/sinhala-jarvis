@@ -1,0 +1,7 @@
+{
+  "model": "qwen3-vl:4b",
+  "whisper_model": "small",
+  "language": "si",
+  "max_steps": 20,
+  "timeout_seconds": 300
+}

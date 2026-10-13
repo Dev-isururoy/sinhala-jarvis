@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.runtime/
+.env
+.env.*
+!.env.example
+*.log

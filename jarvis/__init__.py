@@ -1,0 +1,1 @@
+"""Local Sinhala desktop assistant."""

@@ -1,0 +1,10 @@
+faster-whisper>=1.2,<2
+sounddevice>=0.5,<1
+numpy>=2,<3
+PyAutoGUI>=0.9.54,<1
+pyperclip>=1.9,<2
+Pillow>=11,<13
+pynput>=1.8,<2
+pywin32>=308; sys_platform == 'win32'
+pywinauto>=0.6.9,<1
+jsonschema>=4.23,<5
